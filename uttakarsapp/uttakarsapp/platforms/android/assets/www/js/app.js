@@ -43,12 +43,14 @@ angular.module('starter', ['ionic'])
     $scope.speakText = function () {
         TTS.speak({
             text: $scope.data.speechText,
-            locale: 'en-GB',
+            locale: 'en-US',
             rate: 1.5
         }, function () {
             // Do Something after success
+            alert('success');
         }, function (reason) {
             // Handle the error case
+            alert(reason);
         });
     };
 
