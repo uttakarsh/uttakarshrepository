@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "C:\\uttakarsh-release-key.keystore",
+            "storePassword": "uttakarsh100",
+            "alias": "uttakarsapp",
+            "password" : "uttakarsh200",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "C:\\uttakarsh-release-key.keystore",
+            "storePassword": "uttakarsh100",
+            "alias": "uttakarsapp",
+            "password" : "uttakarsh200",
+            "keystoreType": ""
+        }
+    }
+}
