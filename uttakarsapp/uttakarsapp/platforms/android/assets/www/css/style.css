@@ -1,6 +1,16 @@
 ﻿/* Empty. Add your own CSS if you like */
-.center-class{
+.center-class1{
     text-align:center;
-    margin-top:100%;
-    margin-left:30%;
+    margin-top:10%;
+    margin-left:40%;
+}
+.center-class2{
+    text-align:center;
+    margin-top:20%;
+    margin-left:40%;
+}
+.center-class3{
+    text-align:center;
+    margin-top:30%;
+    margin-left:40%;
 }
